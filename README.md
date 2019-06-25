@@ -1,4 +1,6 @@
-# Rabbitmq RPC With Java
+# Rabbitmq RPC With Java 
+## Prerequisites:
+Install [Rabbitmq-server](https://www.rabbitmq.com/download.html)
 ## Components:
 ### Publisher:
 The Publisher create a Request Object which contains three fields two operands and oprator

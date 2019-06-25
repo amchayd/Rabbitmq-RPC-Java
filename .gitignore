@@ -1,0 +1,9 @@
+/Consumer/.settings/
+/Consumer/target/
+/Consumer/.classpath
+/Consumer/.project
+
+/Publisher/.settings/
+/Publisher/target/
+/Publisher/.classpath
+/Consumer/.project
